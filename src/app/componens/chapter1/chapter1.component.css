@@ -1,0 +1,6 @@
+.canvas{
+    width: 400px;
+    height: 100%;
+    touch-action: none;
+    border: 2px solid #e7f1bf;
+}
