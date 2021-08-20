@@ -1,0 +1,10 @@
+.gutter-col {
+    height: 400px;
+    width: 400px;
+    float: left;
+    padding:5px;
+}
+.gutter-row {
+    background: #0092ff;
+    height: 390px;
+}
